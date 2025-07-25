@@ -2,7 +2,10 @@
   "name": "bigbus",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anil5453.github.io/BIGBUS",
+  
+  "homepage": "https://ganesh93470.github.io/BIGBUSS",
+
+
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
@@ -19,7 +22,6 @@
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "framer-motion": "^12.12.1",
-    "gh-pages": "^6.3.0",
     "jquery": "^3.7.1",
     "keen-slider": "^6.8.6",
     "lucide-react": "^0.503.0",
@@ -37,7 +39,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
+     },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -58,6 +60,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.21",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.3",
     "react-router-dom": "^7.4.0",
     "tailwindcss": "^4.1.5"
