@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/BIGBUSS/static/css/main.a009d65b.css",
+    "main.js": "/BIGBUSS/static/js/main.c2808e39.js",
+    "static/js/453.c5e91346.chunk.js": "/BIGBUSS/static/js/453.c5e91346.chunk.js",
+    "static/media/bus3.jpg": "/BIGBUSS/static/media/bus3.43d37834b771b4ff5de0.jpg",
+    "static/media/bus2.jpg": "/BIGBUSS/static/media/bus2.ab8ad502c8da4b58934d.jpg",
+    "static/media/people-at-bus.jpg": "/BIGBUSS/static/media/people-at-bus.120a1fb7268091a8b421.jpg",
+    "static/media/19199529-girlinbbay.jpg": "/BIGBUSS/static/media/19199529-girlinbbay.8548c3956d434cb249c8.jpg",
+    "static/media/OV6UCV0-summer.jpg": "/BIGBUSS/static/media/OV6UCV0-summer.28345437b8ee8f56d604.jpg",
+    "static/media/13252.jpg": "/BIGBUSS/static/media/13252.9822cefe044dcc589595.jpg",
+    "static/media/bus-shed.jpg": "/BIGBUSS/static/media/bus-shed.02024239bbf5c88d403f.jpg",
+    "static/media/People waiting for bus at bus stop.jpg": "/BIGBUSS/static/media/People waiting for bus at bus stop.865943a5fe98a95224aa.jpg",
+    "static/media/7827298.jpg": "/BIGBUSS/static/media/7827298.d579b61c244cccfc68af.jpg",
+    "static/media/bus.logo.jpg": "/BIGBUSS/static/media/bus.logo.a8f58264a28fdd1a5f37.jpg",
+    "static/media/9844304.jpg": "/BIGBUSS/static/media/9844304.543a15c42d265d99af77.jpg",
+    "static/media/bus1.jpg": "/BIGBUSS/static/media/bus1.47409b860f950d10eb0c.jpg",
+    "static/media/bootstrap-icons.woff?": "/BIGBUSS/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/8794567-blue.jpg": "/BIGBUSS/static/media/8794567-blue.16780c6d726c8fcdfc6f.jpg",
+    "static/media/bootstrap-icons.woff2?": "/BIGBUSS/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/NavBarpic.jpg": "/BIGBUSS/static/media/NavBarpic.c0f4e05bb349a5b064e4.jpg",
+    "index.html": "/BIGBUSS/index.html",
+    "main.a009d65b.css.map": "/BIGBUSS/static/css/main.a009d65b.css.map",
+    "main.c2808e39.js.map": "/BIGBUSS/static/js/main.c2808e39.js.map",
+    "453.c5e91346.chunk.js.map": "/BIGBUSS/static/js/453.c5e91346.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a009d65b.css",
+    "static/js/main.c2808e39.js"
+  ]
+}
